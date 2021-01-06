@@ -6,4 +6,4 @@ Write a text file with links on each row => change the name of the text file in 
 
 Very simple way to open links but works well.
 
-!!! This code is modified from a youtube video that I couldn't find anymore.
+!!! This code is modified from a youtube video that I couldn't find anymore. (If you know who, inform me and I will credit them)
